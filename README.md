@@ -10,7 +10,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/Gurumurthys1/Gurumurthys1/raw/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Gurumurthys1/Gurumurthys1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -123,11 +123,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/Gurumurthys1/Gurumurthys1/blob/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/Gurumurthys1/Gurumurthys1/main/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/Gurumurthys1/Gurumurthys1/blob/output/github-contribution-grid-snake.svg" />
+      srcset="https://raw.githubusercontent.com/Gurumurthys1/Gurumurthys1/main/output/github-contribution-grid-snake.svg" />
     <img alt="github snake"
-      src="https://github.com/Gurumurthys1/Gurumurthys1/blob/output/github-contribution-grid-snake.svg" />
+      src="https://raw.githubusercontent.com/Gurumurthys1/Gurumurthys1/main/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
